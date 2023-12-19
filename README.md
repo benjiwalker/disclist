@@ -15,6 +15,14 @@ Disclist uses the Discogs API to fetch data from the Discogs database. Requests 
 - **Play**: Restart the fetching of Discogs data after pausing.
 - **Pause**: Pause the fetching of Discogs data when fetching.
 
+## Technology
+Tyepscript
+SvelteKit
+DiscogsAPI
+
+## Third Party Packages
+???
+
 ## Contact
 Report a bug, request a feature, or praise Disclist [here](link-to-contact-page).
 
