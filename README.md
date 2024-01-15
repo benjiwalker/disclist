@@ -16,7 +16,7 @@ Disclist uses the Discogs API to fetch data from the Discogs database. Requests 
 - **Pause**: Pause the fetching of Discogs data when fetching.
 
 ## Technology
-Disclist utilises [Tyepscript[(https://www.typescriptlang.org/), [SvelteKit](https://kit.svelte.dev/), [Discogs API](https://www.discogs.com/developers), [Google APIs](https://github.com/googleapis/google-api-nodejs-client), amongst other third party packages.
+Disclist utilises [Tyepscript](https://www.typescriptlang.org/), [SvelteKit](https://kit.svelte.dev/), [Discogs API](https://www.discogs.com/developers), [Google APIs](https://github.com/googleapis/google-api-nodejs-client), amongst other third party packages.
 
 ## Contact
 Report a bug, request a feature, or praise Disclist [here](link-to-contact-page).
